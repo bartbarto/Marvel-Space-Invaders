@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+	background: -webkit-linear-gradient(#000000 520px, #005aff 100%);
+}
+
+#canvas{
+	background-color: black;
+	background-image: none;
+	cursor: crosshair;
+	z-index:1;
+	
+}
+
+a{
+	color: #5fd0ff;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #5fd0ff;
+}
+
+a:hover{
+	text-decoration: underline;
+}
